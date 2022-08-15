@@ -1,5 +1,2 @@
 # Measuring-Ad-effectiveness
 This code depicts a sample scenario  of identifying the profitable online ads based on Kaggles Sales ad optimization dataset. Based on some campaign metrics like Clicks, impressions,conversions etc the code uses unsupervised learning or kmeans clustering to strategically groups of similar campaigns. From the analysis it is clear that high value campaigns on in other words campaigns which have a higher spend tend to bring in more responses and conversions and campaign with lower spends are not as effective as campaign with high spends. Finally we recommend a threshold based on which the business can take a call whehter a campaign is worth executing based on a historical threshold
-
-#Measuring Ad Fraud
-This repository also has a code to depict a sample identification of ipaddresses which are involved in advertising fraud. We use a simple 3 standard deviation method which flags any abnormal number of clicks from the same device and ipaddresses. These ip addresses are marked as outliers which can be further investigated and blocked for suspected fraud
