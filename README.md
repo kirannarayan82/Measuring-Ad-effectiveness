@@ -1,2 +1,4 @@
 # Measuring-Ad-effectiveness
 This code depicts a sample scenario  of identifying the profitable online ads based on Kaggles Sales ad optimization dataset. Based on some campaign metrics like Clicks, impressions,conversions etc the code uses unsupervised learning or kmeans clustering to strategically groups of similar campaigns. From the analysis it is clear that high value campaigns on in other words campaigns which have a higher spend tend to bring in more responses and conversions and campaign with lower spends are not as effective as campaign with high spends. Finally we recommend a threshold based on which the business can take a call whehter a campaign is worth executing based on a historical threshold
+
+reinforcement learning based ad selection: Here a sample best advertisement selection using reinforcment learning based upper confidence alogirthm is also shown
